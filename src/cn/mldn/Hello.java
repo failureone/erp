@@ -2,6 +2,6 @@ package cn.mldn;
 
 public class Hello {
 
-	public int age;
+	public int age1;
 	
 }
